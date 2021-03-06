@@ -1,3 +1,11 @@
+Danielle Shubat
+
+March 2, 2021
+
+Foundations of Databases & SQL Programming
+
+Assignment 07
+
 # User Defined Functions in SQL: An Overview
 ## Introduction
 This paper will define User Defined Functions (UDF) and illustrate the range of analytical potential across the different types of functions in SQL. 
